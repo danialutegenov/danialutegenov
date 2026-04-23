@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**danialutegenov/danialutegenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```Based in Hong Kong 🇭🇰, from Kazakhstan 🇰🇿```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+What I'm good at:
+- backend/devops engineering
+- full-stack
+- design
+- rapid prototyping
+```
+```
+Prev:
+- co-founded design agency -> design works as business assets -> abdrs[dot]com
+- Know Your People -> high-trust agentic social medium -> peepsapp[dot]ai
+- hackathons (GDG, TGB, Cathay)
+- couple of other software projects for real business use
+- more on linkedin
+```
+```
+Interests:
+- startups
+- running tech events
+- graphic design
+- boxing
+```
