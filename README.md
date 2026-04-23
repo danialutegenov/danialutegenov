@@ -1,5 +1,6 @@
 
 ```Based in Hong Kong 🇭🇰, from Kazakhstan 🇰🇿```
+```Studying Data Science @ HKU```
 
 ---
 
